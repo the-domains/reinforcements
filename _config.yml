@@ -6,9 +6,9 @@ color:
   saturation: 0.5402289470657706
   rhythmicContrast: 0.45435260445810854
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
 name: reinforcements
